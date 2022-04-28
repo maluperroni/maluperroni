@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+</h1> <img align= "center" height = "150" src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif"/><div>
+  
+  
 <!--
 **maluperroni/maluperroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
