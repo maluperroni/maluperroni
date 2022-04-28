@@ -1,7 +1,5 @@
-### Hi guys! 👋
-I belive theres many ways to understand the world around us. Now I'm trying to understand throught the tecnology and to be honest it's been a challenge.
+### Hello, it's me!
 
-I won't lie, sometimes I'm be like that:
 </h1> <img align= "center" height = "150" src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif"/><div>
   
   
